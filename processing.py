@@ -2,6 +2,7 @@
 #left out of the notebook to reduce clutter
 import numpy as np
 import pandas as pd
+from functools import reduce
 ###############
 #ALL FILE PATHS RELATIVE TO THOSE IN GIT REPO,
 #change this to change base data dir
@@ -63,10 +64,7 @@ def readPolls(showMinorityByGroup=True):
         for can in candidates:
             dfs.append(pd.read_csv(base+'pre_election_polls/'+poll+'_'+can.lower()+'.csv'))
             dfs[-1]['Candidate'] = can
-            dfs[-1]['Pollter'] = poll
-    for df in dfs:
-        print(df.head())
-
-
-
-readPolls()
+            dfs[-1]['Pollster'] = poll
+    df  = pd.concat(dfs).sort_values(by=['State','Candidate','Pollster'])
+    df = df.reset_index(drop=True)
+    return df
