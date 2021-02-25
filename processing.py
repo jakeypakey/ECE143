@@ -56,15 +56,37 @@ def statesTotals(showThirdParty=False):
 
     return pd.DataFrame(ret)
 
-def readPreElectionPolls(showMinorityByGroup=True):
+def readPreElectionPolls():
+    #file names
     pollsters = ['Emerson','Marist','Monmouth','Siena','SurveyMonkey']
     candidates = ['Biden','Trump']
     dfs = []
+    #read files into df list
     for poll in pollsters:
         for can in candidates:
             dfs.append(pd.read_csv(base+'pre_election_polls/'+poll+'_'+can.lower()+'.csv'))
             dfs[-1]['Candidate'] = can
             dfs[-1]['Pollster'] = poll
+    #combine to one dataframe, sort
     df  = pd.concat(dfs).sort_values(by=['State','Candidate','Pollster'])
+    #reindex
     df = df.reset_index(drop=True)
     return df
+
+def readPostElectionPolls():
+    #file names
+    pollsters = ['Edison']
+    candidates = ['Biden','Trump']
+    dfs = []
+    #read files into df list
+    for poll in pollsters:
+        for can in candidates:
+            dfs.append(pd.read_csv(base+'post_election_polls/'+poll+'_'+can.lower()+'.csv'))
+            dfs[-1]['Candidate'] = can
+            dfs[-1]['Pollster'] = poll
+    #combine to single df and sort
+    df  = pd.concat(dfs).sort_values(by=['State','Candidate','Pollster'])
+    #reindex
+    df = df.reset_index(drop=True)
+    return df
+   
