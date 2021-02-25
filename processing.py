@@ -56,8 +56,8 @@ def statesTotals(showThirdParty=False):
 
     return pd.DataFrame(ret)
 
-def readPolls(showMinorityByGroup=True):
-    pollsters = ['Emerson','Marist','Monmouth','Siena']
+def readPreElectionPolls(showMinorityByGroup=True):
+    pollsters = ['Emerson','Marist','Monmouth','Siena','SurveyMonkey']
     candidates = ['Biden','Trump']
     dfs = []
     for poll in pollsters:
