@@ -53,7 +53,20 @@ def statesTotals(showThirdParty=False):
             ret['party'].append("N/A")
             ret['total_votes'].append(thirdCount)
 
-
-
     return pd.DataFrame(ret)
 
+def readPolls(showMinorityByGroup=True):
+    pollsters = ['Emerson','Marist','Monmouth','Siena']
+    candidates = ['Biden','Trump']
+    dfs = []
+    for poll in pollsters:
+        for can in candidates:
+            dfs.append(pd.read_csv(base+'pre_election_polls/'+poll+'_'+can.lower()+'.csv'))
+            dfs[-1]['Candidate'] = can
+            dfs[-1]['Pollter'] = poll
+    for df in dfs:
+        print(df.head())
+
+
+
+readPolls()
