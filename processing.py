@@ -69,6 +69,8 @@ def readPreElectionPolls():
             dfs[-1]['Pollster'] = poll
     #combine to one dataframe, sort
     df  = pd.concat(dfs).sort_values(by=['State','Candidate','Pollster'])
+    #get rid of codes
+    df['State'] = df['State'].replace(stateDict())
     #reindex
     df = df.reset_index(drop=True)
     return df
@@ -86,7 +88,17 @@ def readPostElectionPolls():
             dfs[-1]['Pollster'] = poll
     #combine to single df and sort
     df  = pd.concat(dfs).sort_values(by=['State','Candidate','Pollster'])
+    #get rid of codes
+    df['State'] = df['State'].replace(stateDict())
     #reindex
     df = df.reset_index(drop=True)
     return df
-   
+
+def stateDict(useShortKey=True):
+    df = pd.read_csv(base+'state_abbrev.csv')
+
+    if useShortKey:
+        return pd.Series(df['State'].values,index=df['Code']).to_dict()
+    else:
+        return pd.Series(df['Code'].values,index=df['State']).to_dict()
+
