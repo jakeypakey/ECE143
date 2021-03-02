@@ -7,6 +7,7 @@ import numpy as np
 import pandas as pd
 from functools import reduce
 from os import path
+import json
 ###############
 #ALL FILE PATHS RELATIVE TO THOSE IN GIT REPO,
 #change this to change base data dir
@@ -245,3 +246,27 @@ def avgPolls(df,pollsters=None):
     dfRet = pd.DataFrame(results,columns=df.columns)
 
     return dfRet 
+
+def extractHouseData():
+    """
+    Created on Tue Mar  2 09:40:10 2021
+
+    @author: greg
+    """
+    file = base+'house.json'
+    with open(file) as train_file:
+        data_dict = json.load(train_file)
+    new_dict = {}
+
+    for k,v in data_dict.items():
+        new_dict[k] = {}
+        total = sum([val for val in v.values() if isinstance(val,int)])
+        for key in v.keys():
+            if v[key] :
+                if '(D)' in key:
+                    new_dict[k]['House-D'] = v[key] / total
+                    new_dict[k]['D Candidate'] = key[:key.find('(')-1]
+                if '(R)' in key:
+                    new_dict[k]['House-R'] = v[key] / total
+                    new_dict[k]['R Candidate'] = key[:key.find('(')-1]
+    return pd.DataFrame.from_dict(new_dict, orient='index')

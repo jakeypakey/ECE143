@@ -1,0 +1,1977 @@
+{
+ "alabama district 1": {
+  "Jerry Carl (R)": 210636,
+  "James Averhart (D)": 115592
+ },
+ "alabama district 2": {
+  "Barry Moore (R)": 197329,
+  "Phyllis Harvey-Hall (D)": 104592
+ },
+ "alabama district 3": {
+  "Mike Rogers (R) *": 216700,
+  "Adia Winfrey (D)": 103874
+ },
+ "alabama district 4": {
+  "Robert Aderholt (R) *": 257201,
+  "Rick Neighbors (D)": 52688
+ },
+ "alabama district 5": {
+  "Mo Brooks (R) *": null
+ },
+ "alabama district 6": {
+  "Gary Palmer (R) *": null
+ },
+ "alabama district 7": {
+  "Terri Sewell (D) *": null
+ },
+ "alaska district 1": {
+  "Don Young (R) *": 119999,
+  "Alyse Galvin (D)": 69674
+ },
+ "arizona district 1": {
+  "Tom O'Halleran (D) *": 178107,
+  "Tiffany Shedd (R)": 166991
+ },
+ "arizona district 2": {
+  "Ann Kirkpatrick (D) *": 202875,
+  "Brandon Martin (R)": 160490
+ },
+ "arizona district 3": {
+  "Raul Grijalva (D) *": 168051,
+  "Daniel Wood (R)": 92325
+ },
+ "arizona district 4": {
+  "Paul Gosar (R) *": 269759,
+  "Delina DiSanto (D)": 117340
+ },
+ "arizona district 5": {
+  "Andy Biggs (R) *": 256446,
+  "Joan Greene (D)": 180321
+ },
+ "arizona district 6": {
+  "David Schweikert (R) *": 214474,
+  "Hiral Tipirneni (D)": 196828
+ },
+ "arizona district 7": {
+  "Ruben Gallego (D) *": 162130,
+  "Joshua Barnett (R)": 49231
+ },
+ "arizona district 8": {
+  "Debbie Lesko (R) *": 247907,
+  "Michael Muscato (D)": 168394
+ },
+ "arizona district 9": {
+  "Greg Stanton (D) *": 213709,
+  "Dave Giles (R)": 133023
+ },
+ "arkansas district 1": {
+  "Rick Crawford (R) *": null
+ },
+ "arkansas district 2": {
+  "French Hill (R) *": 182248,
+  "Joyce Elliott (D)": 145255
+ },
+ "arkansas district 3": {
+  "Steve Womack (R) *": 213944,
+  "Celeste Williams (D)": 105329,
+  "Michael Kalagias (LB)": 12894
+ },
+ "arkansas district 4": {
+  "Bruce Westerman (R) *": 189901,
+  "William Hanson (D)": 74777,
+  "Frank Gilbert (LB)": 7598
+ },
+ "california district 1": {
+  "Doug LaMalfa (R) *": 178328,
+  "Audrey Denney (D)": 136815
+ },
+ "california district 2": {
+  "Jared Huffman (D) *": 232445,
+  "Dale Mensing (R)": 64369
+ },
+ "california district 3": {
+  "John Garamendi (D) *": 145910,
+  "Tamika Hamilton (R)": 114056
+ },
+ "california district 4": {
+  "Tom McClintock (R) *": 212100,
+  "Brynne Kennedy (D)": 173031
+ },
+ "california district 5": {
+  "Mike Thompson (D) *": 219524,
+  "Scott Giblin (R)": 61633
+ },
+ "california district 6": {
+  "Doris Matsui (D) *": 146922,
+  "Chris Bish (R)": 48521
+ },
+ "california district 7": {
+  "Ami Bera (D) *": 145234,
+  "Buzz Patterson (R)": 97853
+ },
+ "california district 8": {
+  "Jay Obernolte (R)": 108597,
+  "Christine Bubser (D)": 91917
+ },
+ "california district 9": {
+  "Jerry McNerney (D) *": 116342,
+  "Tony Amador (R)": 75074
+ },
+ "california district 10": {
+  "Josh Harder (D) *": 123062,
+  "Ted Howze (R)": 93199
+ },
+ "california district 11": {
+  "Mark DeSaulnier (D) *": 238692,
+  "Nisha Sharma (R)": 83344
+ },
+ "california district 12": {
+  "Nancy Pelosi (D) *": 265766,
+  "Shahid Buttar (D)": 74142
+ },
+ "california district 13": {
+  "Barbara Lee (D) *": 248321,
+  "Nikka Piterman (R)": 24833
+ },
+ "california district 14": {
+  "Jackie Speier (D) *": 221406,
+  "Ran Petel (R)": 54487
+ },
+ "california district 15": {
+  "Eric Swalwell (D) *": 181549,
+  "Alison Hayden (R)": 68126
+ },
+ "california district 16": {
+  "Jim Costa (D) *": 109866,
+  "Kevin Cookingham (R)": 75297
+ },
+ "california district 17": {
+  "Ro Khanna (D) *": 161076,
+  "Ritesh Tandon (R)": 59994
+ },
+ "california district 18": {
+  "Anna Eshoo (D) *": 180568,
+  "Rishi Kumar (D)": 99341
+ },
+ "california district 19": {
+  "Zoe Lofgren (D) *": 166918,
+  "Justin Aguilera (R)": 62523
+ },
+ "california district 20": {
+  "Jimmy Panetta (D) *": 207431,
+  "Jeff Gorman (R)": 59062
+ },
+ "california district 21": {
+  "David Valadao (R)": 66383,
+  "TJ Cox (D) *": 61813
+ },
+ "california district 22": {
+  "Devin Nunes (R) *": 151864,
+  "Phil Arballo (D)": 128564
+ },
+ "california district 23": {
+  "Kevin McCarthy (R) *": 109394,
+  "Kim Mangone (D)": 78495
+ },
+ "california district 24": {
+  "Salud Carbajal (D) *": 175857,
+  "Andy Caldwell (R)": 113722
+ },
+ "california district 25": {
+  "Mike Garcia (R) *": 148916,
+  "Christy Smith (D)": 148484
+ },
+ "california district 26": {
+  "Julia Brownley (D) *": 179093,
+  "Ronda Baldwin-Kennedy (R)": 112580
+ },
+ "california district 27": {
+  "Judy Chu (D) *": 195544,
+  "Johnny Nalbandian (R)": 82346
+ },
+ "california district 28": {
+  "Adam Schiff (D) *": 218101,
+  "Eric Early (R)": 79544
+ },
+ "california district 29": {
+  "Tony Cardenas (D) *": 101522,
+  "Angelica Duenas (D)": 75300
+ },
+ "california district 30": {
+  "Brad Sherman (D) *": 215327,
+  "Mark Reed (R)": 92681
+ },
+ "california district 31": {
+  "Pete Aguilar (D) *": 123629,
+  "Agnes Gibboney (R)": 75434
+ },
+ "california district 32": {
+  "Grace Napolitano (D) *": 146304,
+  "Joshua Scott (R)": 75041
+ },
+ "california district 33": {
+  "Ted Lieu (D) *": 234452,
+  "James Bradley (R)": 109600
+ },
+ "california district 34": {
+  "Jimmy Gomez (D) *": 92800,
+  "David Kim (D)": 82593
+ },
+ "california district 35": {
+  "Norma Torres (D) *": 117690,
+  "Mike Cargile (R)": 50677
+ },
+ "california district 36": {
+  "Raul Ruiz (D) *": 108617,
+  "Erin Cruz (R)": 67651
+ },
+ "california district 37": {
+  "Karen Bass (D) *": 224798,
+  "Errol Webber (R)": 35499
+ },
+ "california district 38": {
+  "Linda Sanchez (D) *": 160424,
+  "Michael Tolar (D)": 55497
+ },
+ "california district 39": {
+  "Young Kim (R)": 159571,
+  "Gil Cisneros (D) *": 156476
+ },
+ "california district 40": {
+  "Lucille Roybal-Allard (D) *": 109285,
+  "C Antonio Delgado (R)": 40250
+ },
+ "california district 41": {
+  "Mark Takano (D) *": 92761,
+  "Aja Smith (R)": 51259
+ },
+ "california district 42": {
+  "Ken Calvert (R) *": 115951,
+  "William O'Mara (D)": 91886
+ },
+ "california district 43": {
+  "Maxine Waters (D) *": 172039,
+  "Joe Collins (R)": 66656
+ },
+ "california district 44": {
+  "Nanette Barragan (D) *": 116604,
+  "Analilia Joya (D)": 53114
+ },
+ "california district 45": {
+  "Katie Porter (D) *": 216720,
+  "Greg Raths (R)": 188359
+ },
+ "california district 46": {
+  "Lou Correa (D) *": 152257,
+  "James Waters (R)": 69039
+ },
+ "california district 47": {
+  "Alan Lowenthal (D) *": 176943,
+  "John Briscoe (R)": 104966
+ },
+ "california district 48": {
+  "Michelle Steel (R)": 196208,
+  "Harley Rouda (D) *": 189235
+ },
+ "california district 49": {
+  "Mike Levin (D) *": 193544,
+  "Brian Maryott (R)": 169591
+ },
+ "california district 50": {
+  "Darrell Issa (R)": 168849,
+  "Ammar Campa-Najjar (D)": 145379
+ },
+ "california district 51": {
+  "Juan Vargas (D) *": 134661,
+  "Juan Hidalgo (R)": 58504
+ },
+ "california district 52": {
+  "Scott Peters (D) *": 232447,
+  "Jim DeBello (R)": 143060
+ },
+ "california district 53": {
+  "Sara Jacobs (D)": 184494,
+  "Georgette Gomez (D)": 125471
+ },
+ "colorado district 1": {
+  "Diana DeGette (D) *": 305804,
+  "Shane Bolling (R)": 94939,
+  "Kyle Furey (LB)": 7286,
+  "Paul Fiorino (UY)": 2062,
+  "Jan Kok (O)": 1225
+ },
+ "colorado district 2": {
+  "Joe Neguse (D) *": 309226,
+  "Charlie Winn (R)": 179428,
+  "Thom Atkinson (LB)": 13239,
+  "Gary Swing (UY)": 2469
+ },
+ "colorado district 3": {
+  "Lauren Boebert (R)": 215279,
+  "Diane Mitsch Bush (D)": 190695,
+  "John Keil (LB)": 9841,
+  "Critter Milton (UY)": 4104
+ },
+ "colorado district 4": {
+  "Ken Buck (R) *": 282265,
+  "Ike McCorkle (D)": 171385,
+  "Bruce Griffith (LB)": 10755,
+  "Laura Ireland (UY)": 4404
+ },
+ "colorado district 5": {
+  "Doug Lamborn (R) *": 246828,
+  "Jillian Freeland (D)": 159930,
+  "Ed Duffett (LB)": 14539,
+  "Marcus Murphy (UN)": 3655,
+  "Rebecca Keltie (UY)": 3261
+ },
+ "colorado district 6": {
+  "Jason Crow (D) *": 248549,
+  "Steve House (R)": 174088,
+  "Norm Olsen (LB)": 8959,
+  "Jaimie Kulikowski (UY)": 3836
+ },
+ "colorado district 7": {
+  "Ed Perlmutter (D) *": 249754,
+  "Charles Stockham (R)": 158801,
+  "Ken Biles (LB)": 11427,
+  "David Olszta (UY)": 2340
+ },
+ "connecticut district 1": {
+  "John Larson (D) *": 209492,
+  "Mary Fay (R)": 117944,
+  "Thomas McCormick (GR)": 4239
+ },
+ "connecticut district 2": {
+  "Joe Courtney (D) *": 217954,
+  "Justin Anderson (R)": 140221,
+  "Cassandra Martineau (GR)": 4937,
+  "Daniel Reale (LB)": 3889
+ },
+ "connecticut district 3": {
+  "Rosa DeLauro (D) *": 188687,
+  "Margaret Streicker (R)": 136065,
+  "Justin Paglino (GR)": 4815
+ },
+ "connecticut district 4": {
+  "Jim Himes (D) *": 203314,
+  "Jonathan Riddle (R)": 127902,
+  "Brian Merlen (IP)": 5067
+ },
+ "connecticut district 5": {
+  "Jahana Hayes (D) *": 192467,
+  "David Sullivan (R)": 151833,
+  "Bruce Walczak (IP)": 5302
+ },
+ "delaware district 1": {
+  "Lisa Rochester (D) *": 280612,
+  "Lee Murphy (R)": 195708,
+  "Catherine Purcell (O)": 6661,
+  "David Rogers (LB)": 3793
+ },
+ "florida district 1": {
+  "Matt Gaetz (R) *": 282980,
+  "Phil Ehr (D)": 148948,
+  "Albert Oram (NF)": 6023
+ },
+ "florida district 2": {
+  "Neal Dunn (R) *": null
+ },
+ "florida district 3": {
+  "Kat Cammack (R)": 222873,
+  "Adam Christensen (D)": 167050
+ },
+ "florida district 4": {
+  "John Rutherford (R) *": 307779,
+  "Donna Deegan (D)": 195652
+ },
+ "florida district 5": {
+  "Al Lawson (D) *": 218483,
+  "Gary Adler (R)": 117199
+ },
+ "florida district 6": {
+  "Michael Waltz (R) *": 265041,
+  "Clint Curtis (D)": 172064
+ },
+ "florida district 7": {
+  "Stephanie Murphy (D) *": 224561,
+  "Leo Valentin (R)": 175526,
+  "William Garlington (NF)": 5735
+ },
+ "florida district 8": {
+  "Bill Posey (R) *": 281869,
+  "Jim Kennedy (D)": 177531
+ },
+ "florida district 9": {
+  "Darren Soto (D) *": 240285,
+  "William Olson (R)": 188622
+ },
+ "florida district 10": {
+  "Val Demings (D) *": 239238,
+  "Vennia Francois (R)": 136790
+ },
+ "florida district 11": {
+  "Daniel Webster (R) *": 316655,
+  "Dana Cottrell (D)": 157860
+ },
+ "florida district 12": {
+  "Gus Bilirakis (R) *": 284680,
+  "Kimberly Walker (D)": 167989
+ },
+ "florida district 13": {
+  "Charlie Crist (D) *": 215179,
+  "Anna Luna (R)": 190547
+ },
+ "florida district 14": {
+  "Kathy Castor (D) *": 223227,
+  "Christine Quinn (R)": 147276
+ },
+ "florida district 15": {
+  "Scott Franklin (R)": 215839,
+  "Alan Cohn (D)": 173700
+ },
+ "florida district 16": {
+  "Vern Buchanan (R) *": 268129,
+  "Margaret Good (D)": 214697
+ },
+ "florida district 17": {
+  "Greg Steube (R) *": 266180,
+  "Allen Ellison (D)": 140268,
+  "Theodore Murray (NF)": 5384
+ },
+ "florida district 18": {
+  "Brian Mast (R) *": 252674,
+  "Pam Keith (D)": 185949,
+  "K.W. Miller (NF)": 9723
+ },
+ "florida district 19": {
+  "Byron Donalds (R)": 271296,
+  "Cindy Banyai (D)": 171420
+ },
+ "florida district 20": {
+  "Alcee Hastings (D) *": 252724,
+  "Greg Musselwhite (R)": 68486
+ },
+ "florida district 21": {
+  "Lois Frankel (D) *": 235854,
+  "Laura Loomer (R)": 156670,
+  "Charleston Malkemus (NF)": 7465
+ },
+ "florida district 22": {
+  "Ted Deutch (D) *": 235034,
+  "James Pruden (R)": 166117
+ },
+ "florida district 23": {
+  "Debbie Wasserman Schultz (D) *": 220856,
+  "Carla Spalding (R)": 158631
+ },
+ "florida district 24": {
+  "Frederica Wilson (D) *": 218655,
+  "Lavern Spicer (R)": 59016,
+  "Christine Olivo (NF)": 11685
+ },
+ "florida district 25": {
+  "Mario Diaz-Balart (R) *": null
+ },
+ "florida district 26": {
+  "Carlos Gimenez (R)": 177141,
+  "Debbie Mucarsel-Powell (D) *": 165301
+ },
+ "florida district 27": {
+  "Maria Elvira Salazar (R)": 175984,
+  "Donna Shalala (D) *": 166568
+ },
+ "georgia district 1": {
+  "Buddy Carter (R) *": 189471,
+  "Joyce Griggs (D)": 135152
+ },
+ "georgia district 2": {
+  "Sanford Bishop (D) *": 161123,
+  "Don Cole (R)": 111549
+ },
+ "georgia district 3": {
+  "Drew Ferguson (R) *": 240058,
+  "Val Almonord (D)": 128996
+ },
+ "georgia district 4": {
+  "Hank Johnson (D) *": 278094,
+  "Johsie Ezammudeen (R)": 69293
+ },
+ "georgia district 5": {
+  "Nikema Williams (D)": 298784,
+  "Angela Stanton-King (R)": 52180
+ },
+ "georgia district 6": {
+  "Lucy McBath (D) *": 216029,
+  "Karen Handel (R)": 179499
+ },
+ "georgia district 7": {
+  "Carolyn Bourdeaux (D)": 190476,
+  "Rich McCormick (R)": 180290
+ },
+ "georgia district 8": {
+  "Austin Scott (R) *": 198656,
+  "Lindsay Holliday (D)": 109184
+ },
+ "georgia district 9": {
+  "Andrew Clyde (R)": 292396,
+  "Devin Pandy (D)": 79653
+ },
+ "georgia district 10": {
+  "Jody Hice (R) *": 235538,
+  "Tabitha Johnson-Green (D)": 142530
+ },
+ "georgia district 11": {
+  "Barry Loudermilk (R) *": 245102,
+  "Dana Barrett (D)": 160469
+ },
+ "georgia district 12": {
+  "Rick Allen (R) *": 180883,
+  "Liz Johnson (D)": 128661
+ },
+ "georgia district 13": {
+  "David Scott (D) *": 277421,
+  "Becky Hites (R)": 80908
+ },
+ "georgia district 14": {
+  "Marjorie Greene (R)": 227807,
+  "Kevin Van Ausdal (D)": 76819
+ },
+ "hawaii district 1": {
+  "Ed Case (D) *": 183053,
+  "Ron Curtis (R)": 71094
+ },
+ "hawaii district 2": {
+  "Kaiali'i Kahele (D)": 171398,
+  "Joe Akana (R)": 83928,
+  "Michelle Tippens (LB)": 6769,
+  "Jonathan Hoomanawanui (O)": 6444,
+  "Ron Burrus (NP)": 2650,
+  "John Giuffre (O)": 661
+ },
+ "idaho district 1": {
+  "Russ Fulcher (R) *": 310737,
+  "Rudy Soto (D)": 131268,
+  "Joe Evans (LB)": 16435
+ },
+ "idaho district 2": {
+  "Mike Simpson (R) *": 250678,
+  "Aaron Swisher (D)": 124151,
+  "Pro-Life (CS)": 8573,
+  "Sierra Law (LB)": 7940
+ },
+ "illinois district 1": {
+  "Bobby Rush (D) *": 209719,
+  "Philanise White (R)": 78003
+ },
+ "illinois district 2": {
+  "Robin Kelly (D) *": 208664,
+  "Theresa Raborn (R)": 60231
+ },
+ "illinois district 3": {
+  "Marie Newman (D)": 143728,
+  "Mike Fricilone (R)": 120168
+ },
+ "illinois district 4": {
+  "Chuy Garcia (D) *": 158437,
+  "Jesus Solorio (R)": 31660
+ },
+ "illinois district 5": {
+  "Mike Quigley (D) *": 204563,
+  "Tommy Hanson (R)": 84930,
+  "Thomas Wilda (GR)": 7473
+ },
+ "illinois district 6": {
+  "Sean Casten (D) *": 195266,
+  "Jeanne Ives (R)": 172902,
+  "Bill Redpath (LB)": 6451
+ },
+ "illinois district 7": {
+  "Danny Davis (D) *": 207763,
+  "Craig Cameron (R)": 34013,
+  "Tracy Jennings (I)": 15897
+ },
+ "illinois district 8": {
+  "Raja Krishnamoorthi (D) *": 161630,
+  "Preston Nelson (LB)": 62880
+ },
+ "illinois district 9": {
+  "Janice Schakowsky (D) *": 199971,
+  "Sargis Sangari (R)": 90332
+ },
+ "illinois district 10": {
+  "Brad Schneider (D) *": 146919,
+  "Valerie Ramirez Mukherjee (R)": 94427
+ },
+ "illinois district 11": {
+  "Bill Foster (D) *": 186180,
+  "Rick Laib (R)": 109025
+ },
+ "illinois district 12": {
+  "Mike Bost (R) *": 191251,
+  "Raymond Lenzi (D)": 124545
+ },
+ "illinois district 13": {
+  "Rodney Davis (R) *": 176144,
+  "Betsy Dirksen Londrigan (D)": 147012
+ },
+ "illinois district 14": {
+  "Jim Oberweis (R)": 189846,
+  "Lauren Underwood (D) *": 189288
+ },
+ "illinois district 15": {
+  "Mary Miller (R)": 242460,
+  "Erika Weaver (D)": 87252
+ },
+ "illinois district 16": {
+  "Adam Kinzinger (R) *": 214257,
+  "Dani Brzozowski (D)": 115067
+ },
+ "illinois district 17": {
+  "Cheri Bustos (D) *": 154147,
+  "Esther Joy King (R)": 142621
+ },
+ "illinois district 18": {
+  "Darin LaHood (R) *": 258047,
+  "George Petrilli (D)": 107937
+ },
+ "indiana district 1": {
+  "Frank Mrvan (D)": 184906,
+  "Mark Leyva (R)": 132106,
+  "Michael Strauss (LB)": 9515
+ },
+ "indiana district 2": {
+  "Jackie Walorski (R) *": 182803,
+  "Patricia Hackett (D)": 114298
+ },
+ "indiana district 3": {
+  "Jim Banks (R) *": 220757,
+  "Chip Coldiron (D)": 104504
+ },
+ "indiana district 4": {
+  "Jim Baird (R) *": 223968,
+  "Joe Mackey (D)": 112374
+ },
+ "indiana district 5": {
+  "Victoria Spartz (R)": 208085,
+  "Christina Hale (D)": 191004,
+  "Kenneth Tucker (LB)": 16767
+ },
+ "indiana district 6": {
+  "Greg Pence (R) *": 224322,
+  "Jeannine Lake (D)": 90732,
+  "Tom Ferkinhoff (LB)": 11723
+ },
+ "indiana district 7": {
+  "Andre Carson (D) *": 176057,
+  "Susan Smith (R)": 105966
+ },
+ "indiana district 8": {
+  "Larry Bucshon (R) *": 214587,
+  "Thomasina Marsili (D)": 95627,
+  "James Rodenberger (LB)": 10273
+ },
+ "indiana district 9": {
+  "Trey Hollingsworth (R) *": 218504,
+  "Andy Ruff (D)": 124772,
+  "Tonya Millis (LB)": 15590
+ },
+ "iowa district 1": {
+  "Ashley Hinson (R)": 211679,
+  "Abby Finkenauer (D) *": 200893
+ },
+ "iowa district 2": {
+  "Rita Hart (D)": 196608,
+  "Mariannette Miller-Meeks (R)": 196445
+ },
+ "iowa district 3": {
+  "Cindy Axne (D) *": 218969,
+  "David Young (R)": 212727,
+  "Bryan Holder (LB)": 15338
+ },
+ "iowa district 4": {
+  "Randy Feenstra (R)": 236898,
+  "J.D. Scholten (D)": 144381
+ },
+ "kansas district 1": {
+  "Tracey Mann (R)": 203812,
+  "Kali Barnett (D)": 81506
+ },
+ "kansas district 2": {
+  "Jake LaTurner (R)": 182145,
+  "Michelle De La Isla (D)": 133354,
+  "Robert Garrard (LB)": 13734
+ },
+ "kansas district 3": {
+  "Sharice Davids (D) *": 212604,
+  "Amanda Adkins (R)": 174163,
+  "Steven Hohe (LB)": 11119
+ },
+ "kansas district 4": {
+  "Ron Estes (R) *": 197433,
+  "Laura Lombard (D)": 110922
+ },
+ "kentucky district 1": {
+  "James Comer (R) *": 246308,
+  "James Rhodes (D)": 82122
+ },
+ "kentucky district 2": {
+  "Brett Guthrie (R) *": 255725,
+  "Hank Linderman (D)": 94638,
+  "Robert Perry (LB)": 7588,
+  "Lewis Carter (O)": 2431
+ },
+ "kentucky district 3": {
+  "John Yarmuth (D) *": 230603,
+  "Rhonda Palazzo (R)": 137396
+ },
+ "kentucky district 4": {
+  "Thomas Massie (R) *": 256599,
+  "Alexandra Owensby (D)": 125881
+ },
+ "kentucky district 5": {
+  "Harold Rogers (R) *": 249867,
+  "Matthew Best (D)": 46703
+ },
+ "kentucky district 6": {
+  "Andy Barr (R) *": 216927,
+  "Josh Hicks (D)": 154973,
+  "Frank Harris (LB)": 6488
+ },
+ "louisiana district 1": {
+  "Steve Scalise (R) *": 270287,
+  "Lee Ann Dugas (D)": 94713,
+  "Howard Kearney (LB)": 9306
+ },
+ "louisiana district 2": {
+  "Cedric Richmond (D) *": 201579,
+  "David Schilling (R)": 47564,
+  "Glenn Harris (D)": 33651,
+  "Sheldon Vincent (R)": 15560,
+  "Belden Batiste (I)": 12258,
+  "Colby James (I)": 6249
+ },
+ "louisiana district 3": {
+  "Clay Higgins (R) *": 230473,
+  "Braylon Harris (D)": 60851,
+  "Rob Anderson (D)": 39423,
+  "Brandon LeLeux (LB)": 9364
+ },
+ "louisiana district 4": {
+  "Mike Johnson (R) *": 185174,
+  "Kenny Houston (D)": 78063,
+  "Ryan Trundle (D)": 23791,
+  "Ben Gibson (R)": 19320
+ },
+ "louisiana district 5": {
+  "Luke Letlow (R)": 102516,
+  "Lance Harris (R)": 51229,
+  "Sandra Christophe (D)": 50773,
+  "Martin Lemelle (D)": 32168,
+  "Scotty Robinson (R)": 23883,
+  "Allen Guillory (R)": 22486,
+  "Matt Hasty (R)": 9830,
+  "Phillip Snowden (D)": 9428,
+  "Jesse Lagarde (D)": 7129
+ },
+ "louisiana district 6": {
+  "Garret Graves (R) *": 265684,
+  "Dartanyon Williams (D)": 95531,
+  "Shannon Sloan (LB)": 9731,
+  "Richard Torregano (ND)": 3015
+ },
+ "maine district 1": {
+  "Chellie Pingree (D) *": 262785,
+  "Jay Allen (R)": 164486
+ },
+ "maine district 2": {
+  "Jared Golden (D) *": 194960,
+  "Dale Crafts (R)": 173876
+ },
+ "maryland district 1": {
+  "Andy Harris (R) *": 223924,
+  "Mia Mason (D)": 115793
+ },
+ "maryland district 2": {
+  "Dutch Ruppersberger (D) *": 168017,
+  "Johnny Salling (R)": 90062
+ },
+ "maryland district 3": {
+  "John Sarbanes (D) *": 208239,
+  "Charles Anthony (R)": 95959
+ },
+ "maryland district 4": {
+  "Anthony Brown (D) *": 241093,
+  "George McDermott (R)": 63206
+ },
+ "maryland district 5": {
+  "Steny Hoyer (D) *": 231230,
+  "Chris Palombi (R)": 113468
+ },
+ "maryland district 6": {
+  "David Trone (D) *": 157326,
+  "Neil Parrott (R)": 124753,
+  "George Gluck (GR)": 4888
+ },
+ "maryland district 7": {
+  "Kweisi Mfume (D) *": 201842,
+  "Kimberly Klacik (R)": 80715
+ },
+ "maryland district 8": {
+  "Jamie Raskin (D) *": 188382,
+  "Gregory Coll (R)": 105204
+ },
+ "massachusetts district 1": {
+  "Richard Neal (D) *": null
+ },
+ "massachusetts district 2": {
+  "James McGovern (D) *": 246005,
+  "Tracy Lovvorn (R)": 130405
+ },
+ "massachusetts district 3": {
+  "Lori Trahan (D) *": null
+ },
+ "massachusetts district 4": {
+  "Jake Auchincloss (D)": 244275,
+  "Julie Hall (R)": 157029
+ },
+ "massachusetts district 5": {
+  "Katherine Clark (D) *": 284732,
+  "Caroline Colarusso (R)": 99767
+ },
+ "massachusetts district 6": {
+  "Seth Moulton (D) *": 280969,
+  "John Paul Moran (R)": 148600
+ },
+ "massachusetts district 7": {
+  "Ayanna Pressley (D) *": 251571,
+  "Roy Owens (I)": 36650
+ },
+ "massachusetts district 8": {
+  "Stephen Lynch (D) *": 301676,
+  "Jonathan Lott (O)": 70116
+ },
+ "massachusetts district 9": {
+  "Bill Keating (D) *": 259129,
+  "Helen Brady (R)": 149871,
+  "Michael Manley (O)": 9572
+ },
+ "michigan district 1": {
+  "Jack Bergman (R) *": 255294,
+  "Dana Ferguson (D)": 154437,
+  "Ben Boren (LB)": 6288
+ },
+ "michigan district 2": {
+  "Bill Huizenga (R) *": 237447,
+  "Bryan Berghoef (D)": 153461,
+  "Max Riekse (LB)": 5268,
+  "Jean-Michel Creviere (GR)": 2627,
+  "Gerald Van Sickle (TX)": 2459
+ },
+ "michigan district 3": {
+  "Peter Meijer (R)": 213147,
+  "Hillary Scholten (D)": 188654
+ },
+ "michigan district 4": {
+  "John Moolenaar (R) *": 242630,
+  "Jerry Hilliard (D)": 120815,
+  "David Canny (LB)": 5374,
+  "Amy Slepr (GR)": 4448
+ },
+ "michigan district 5": {
+  "Daniel Kildee (D) *": 192917,
+  "Tim Kelly (R)": 149124,
+  "Kathy Goodwin (O)": 8068,
+  "James Harris (LB)": 5409
+ },
+ "michigan district 6": {
+  "Fred Upton (R) *": 211473,
+  "Jon Hoadley (D)": 152092,
+  "Jeff DePoy (LB)": 10396,
+  "John Lawrence (GR)": 4439
+ },
+ "michigan district 7": {
+  "Tim Walberg (R) *": 227514,
+  "Gretchen Driskell (D)": 159746
+ },
+ "michigan district 8": {
+  "Elissa Slotkin (D) *": 217928,
+  "Paul Junge (R)": 202517,
+  "Joe Hartman (LB)": 7896
+ },
+ "michigan district 9": {
+  "Andy Levin (D) *": 231829,
+  "Charles Langworthy (R)": 153677,
+  "Andrea Kirby (O)": 9030,
+  "Mike Saliba (LB)": 6549
+ },
+ "michigan district 10": {
+  "Lisa McClain (R)": 271417,
+  "Kimberly Bizon (D)": 138156
+ },
+ "michigan district 11": {
+  "Haley Stevens (D) *": 226076,
+  "Eric Esshaki (R)": 215362,
+  "Leonard Schwartz (LB)": 8934
+ },
+ "michigan district 12": {
+  "Debbie Dingell (D) *": 254988,
+  "Jeff Jones (R)": 117730,
+  "Gary Walkowicz (O)": 11146
+ },
+ "michigan district 13": {
+  "Rashida Tlaib (D) *": 220307,
+  "David Dudenhoefer (R)": 53169,
+  "Sam Johnson (O)": 5247,
+  "Etta Wilcoxon (GR)": 2071,
+  "Articia Bomer (TX)": 1951
+ },
+ "michigan district 14": {
+  "Brenda Lawrence (D) *": 264205,
+  "Robert Patrick (R)": 62486,
+  "Lisa Gioia (LB)": 3687,
+  "Philip Kolody (O)": 2476,
+  "Clyde Shabazz (GR)": 1942
+ },
+ "minnesota district 1": {
+  "Jim Hagedorn (R) *": 179008,
+  "Dan Feehan (D)": 167723,
+  "Bill Rood (G)": 21409
+ },
+ "minnesota district 2": {
+  "Angie Craig (D) *": 203698,
+  "Tyler Kistner (R)": 194267,
+  "Adam Weeks (O)": 24647
+ },
+ "minnesota district 3": {
+  "Dean Phillips (D) *": 246567,
+  "Kendall Qualls (R)": 196545
+ },
+ "minnesota district 4": {
+  "Betty McCollum (D) *": 245589,
+  "Gene Rechtzigel (R)": 112668,
+  "Susan Sindt (G)": 29503
+ },
+ "minnesota district 5": {
+  "Ilhan Omar (D) *": 255811,
+  "Lacy Johnson (R)": 102831,
+  "Michael Moore (O)": 37952
+ },
+ "minnesota district 6": {
+  "Tom Emmer (R) *": 272733,
+  "Tawnja Zahradka (D)": 142853
+ },
+ "minnesota district 7": {
+  "Michelle Fischbach (R)": 193986,
+  "Collin Peterson (D) *": 144752,
+  "Slater Johnson (O)": 17697,
+  "Rae Hart Anderson (G)": 6492
+ },
+ "minnesota district 8": {
+  "Pete Stauber (R) *": 223526,
+  "Quinn Nystrom (D)": 147939,
+  "Judith Schwartzbacker (G)": 22189
+ },
+ "mississippi district 1": {
+  "Trent Kelly (R) *": 201750,
+  "Antonia Eliason (D)": 85239
+ },
+ "mississippi district 2": {
+  "Bennie Thompson (D) *": 157075,
+  "Brian Flowers (R)": 88178
+ },
+ "mississippi district 3": {
+  "Michael Guest (R) *": 190489,
+  "Dorothy Benford (D)": 101124
+ },
+ "mississippi district 4": {
+  "Steven Palazzo (R) *": null
+ },
+ "missouri district 1": {
+  "Cori Bush (D)": 245520,
+  "Anthony Rogers (R)": 59156,
+  "Alex Furman (LB)": 6681
+ },
+ "missouri district 2": {
+  "Ann Wagner (R) *": 230617,
+  "Jill Schupp (D)": 201520,
+  "Martin Schulte (LB)": 11558
+ },
+ "missouri district 3": {
+  "Blaine Luetkemeyer (R) *": 282424,
+  "Megan Rezabek (D)": 115909,
+  "Leonard Steinman (LB)": 8328
+ },
+ "missouri district 4": {
+  "Vicky Hartzler (R) *": 245064,
+  "Lindsey Simmons (D)": 107528,
+  "Steven Koonse (LB)": 9934
+ },
+ "missouri district 5": {
+  "Emanuel Cleaver (D) *": 204631,
+  "Ryan Derks (R)": 135396,
+  "Robin Dominick (LB)": 9211
+ },
+ "missouri district 6": {
+  "Sam Graves (R) *": 258895,
+  "Gena Ross (D)": 118753,
+  "Jim Higgins (LB)": 8152
+ },
+ "missouri district 7": {
+  "Billy Long (R) *": 251757,
+  "Teresa Montseny (D)": 96501,
+  "Kevin Craig (LB)": 15401
+ },
+ "missouri district 8": {
+  "Jason Smith (R) *": 253646,
+  "Kathy Ellis (D)": 70504,
+  "Tom Schmitz (LB)": 5846
+ },
+ "montana district 1": {
+  "Matt Rosendale (R)": 337381,
+  "Kathleen Williams (D)": 261168
+ },
+ "nebraska district 1": {
+  "Jeff Fortenberry (R) *": 185187,
+  "Kate Bolz (D)": 117241,
+  "Dennis Grace (LB)": 8620
+ },
+ "nebraska district 2": {
+  "Donald Bacon (R) *": 168318,
+  "Kara Eastman (D)": 152162,
+  "Tyler Schaeffer (LB)": 9905
+ },
+ "nebraska district 3": {
+  "Adrian Smith (R) *": 223302,
+  "Mark Elworth (D)": 50067,
+  "Dustin Hobbs (LB)": 10761
+ },
+ "nevada district 1": {
+  "Dina Titus (D) *": 122564,
+  "Joyce Bentley (R)": 66209,
+  "Kamau Bakari (IA)": 5174,
+  "Robert Strawder (LB)": 3900
+ },
+ "nevada district 2": {
+  "Mark Amodei (R) *": 210821,
+  "Patricia Ackerman (D)": 151930,
+  "Janine Hansen (IA)": 10430
+ },
+ "nevada district 3": {
+  "Susie Lee (D) *": 185949,
+  "Dan Rodimer (R)": 173375,
+  "Steve Brown (LB)": 10552,
+  "Ed Bridges (IA)": 9301
+ },
+ "nevada district 4": {
+  "Steven Horsford (D) *": 153956,
+  "Jim Marchant (R)": 140959,
+  "Jonathan Esteban (LB)": 6652,
+  "Barry Rubinson (IA)": 3227
+ },
+ "new hampshire district 1": {
+  "Chris Pappas (D) *": 205317,
+  "Matt Mowers (R)": 184688,
+  "Zachary Dumont (LB)": 9611
+ },
+ "new hampshire district 2": {
+  "Ann McLane Kuster (D) *": 207801,
+  "Steven Negron (R)": 168534,
+  "Andrew Olding (LB)": 9151
+ },
+ "new jersey district 1": {
+  "Donald Norcross (D) *": 187371,
+  "Claire Gustafson (R)": 109036
+ },
+ "new jersey district 2": {
+  "Jeff Van Drew (R) *": 160540,
+  "Amy Kennedy (D)": 144585,
+  "Jenna Harvey (I)": 2894,
+  "Jesse Ehrnstrom (I)": 2341
+ },
+ "new jersey district 3": {
+  "Andy Kim (D) *": 199129,
+  "David Richter (R)": 166465,
+  "Martin Weber (I)": 3085,
+  "Robert Shapiro (I)": 1477
+ },
+ "new jersey district 4": {
+  "Christopher Smith (R) *": 210652,
+  "Stephanie Schmid (D)": 139370,
+  "Hank Schroeder (I)": 2384,
+  "Michael Rufo (I)": 1934,
+  "Andrew Pachuta (I)": 1503
+ },
+ "new jersey district 5": {
+  "Josh Gottheimer (D) *": 202909,
+  "Frank Pallotta (R)": 162981,
+  "Louis Vellucci (I)": 3984
+ },
+ "new jersey district 6": {
+  "Frank Pallone (D) *": 130753,
+  "Christian Onuoha (R)": 73723
+ },
+ "new jersey district 7": {
+  "Tom Malinowski (D) *": 167932,
+  "Thomas Kean Jr. (R)": 149825
+ },
+ "new jersey district 8": {
+  "Albio Sires (D) *": 130746,
+  "Jason Mushnick (R)": 38307,
+  "Dan Delaney (I)": 2436
+ },
+ "new jersey district 9": {
+  "Bill Pascrell (D) *": 152651,
+  "Billy Prempeh (R)": 74496,
+  "Chris Auriemma (I)": 5059
+ },
+ "new jersey district 10": {
+  "Donald Payne Jr. (D) *": 174784,
+  "Jennifer Zinone (R)": 23530,
+  "Akil Khalfani (I)": 2565,
+  "Khaliah Fitchette (I)": 2310,
+  "John Mirrione (I)": 707
+ },
+ "new jersey district 11": {
+  "Mikie Sherrill (D) *": 166808,
+  "Rosemary Becchi (R)": 125865
+ },
+ "new jersey district 12": {
+  "Bonnie Watson Coleman (D) *": 174293,
+  "Mark Razzoli (R)": 71704,
+  "Edward Forchion (I)": 2910,
+  "Kenneth Cody (I)": 1146
+ },
+ "new mexico district 1": {
+  "Deb Haaland (D) *": 185264,
+  "Michelle Garcia Holmes (R)": 133746
+ },
+ "new mexico district 2": {
+  "Yvette Herrell (R)": 141814,
+  "Xochitl Torres Small (D) *": 121862
+ },
+ "new mexico district 3": {
+  "Teresa Leger Fernandez (D)": 184015,
+  "Alexis Johnson (R)": 130333
+ },
+ "new york district 1": {
+  "Lee Zeldin (R) *": 176317,
+  "Nancy Goroff (D)": 111188
+ },
+ "new york district 2": {
+  "Andrew Garbarino (R)": 157001,
+  "Jackie Gordon (D)": 111204,
+  "Harry Burger (GR)": 2565
+ },
+ "new york district 3": {
+  "George Santos (R)": 137928,
+  "Thomas Suozzi (D) *": 133743,
+  "Howard Rabin (LB)": 1501
+ },
+ "new york district 4": {
+  "Kathleen Rice (D) *": 147580,
+  "Douglas Tuman (R)": 134243,
+  "Joseph Naham (GR)": 2018
+ },
+ "new york district 5": {
+  "Gregory Meeks (D) *": null
+ },
+ "new york district 6": {
+  "Grace Meng (D) *": 106131,
+  "Thomas Zmich (R)": 63324
+ },
+ "new york district 7": {
+  "Nydia Velazquez (D) *": 142815,
+  "Brian Kelly (R)": 27907,
+  "Gilbert Midonnet (LB)": 1158
+ },
+ "new york district 8": {
+  "Hakeem Jeffries (D) *": 175140,
+  "Garfield Wallace (R)": 36873
+ },
+ "new york district 9": {
+  "Yvette Clarke (D) *": 170898,
+  "Constantine Jean-Pierre (R)": 36847,
+  "Gary Popkin (LB)": 1221,
+  "Joel Anabilah-Azumah (O)": 726
+ },
+ "new york district 10": {
+  "Jerrold Nadler (D) *": 120273,
+  "Cathy Bernstein (R)": 52842,
+  "Michael Madrid (LB)": 2156
+ },
+ "new york district 11": {
+  "Nicole Malliotakis (R)": 136382,
+  "Max Rose (D) *": 99224
+ },
+ "new york district 12": {
+  "Carolyn Maloney (D) *": 153815,
+  "Carlos Santiago-Cano (R)": 37973,
+  "Steven Kolln (LB)": 2732
+ },
+ "new york district 13": {
+  "Adriano Espaillat (D) *": 179589,
+  "Lovelynn Gwinn (R)": 16787,
+  "Christopher Morris-Perry (C)": 2747
+ },
+ "new york district 14": {
+  "Alexandria Ocasio-Cortez (D) *": 105455,
+  "John Cummings (R)": 46877,
+  "Michelle Caruso-Cabrera (O)": 1042
+ },
+ "new york district 15": {
+  "Ritchie Torres (D)": 136471,
+  "Patrick Delices (R)": 18198
+ },
+ "new york district 16": {
+  "Jamaal Bowman (D)": 160289,
+  "Patrick McManus (C)": 32831
+ },
+ "new york district 17": {
+  "Mondaire Jones (D)": 134845,
+  "Maureen McArdle Schulman (R)": 98634,
+  "Yehudis Gottesfeld (C)": 7032,
+  "Joshua Eisen (O)": 5732,
+  "Michael Parietti (O)": 2132
+ },
+ "new york district 18": {
+  "Sean Patrick Maloney (D) *": 134682,
+  "Chele Farley (R)": 127118,
+  "Scott Smith (LB)": 2419
+ },
+ "new york district 19": {
+  "Antonio Delgado (D) *": 141997,
+  "Kyle Van De Water (R)": 134608,
+  "Victoria Alexander (LB)": 3402,
+  "Steven Greenfield (GR)": 2040
+ },
+ "new york district 20": {
+  "Paul Tonko (D) *": 165111,
+  "Elizabeth Joy (R)": 127553
+ },
+ "new york district 21": {
+  "Elise Stefanik (R) *": 167935,
+  "Tedra Cobb (D)": 92596
+ },
+ "new york district 22": {
+  "Claudia Tenney (R)": 136679,
+  "Anthony Brindisi (D) *": 106944,
+  "Keith Price (LB)": 5376
+ },
+ "new york district 23": {
+  "Tom Reed (R) *": 160930,
+  "Tracy Mitrano (D)": 91331,
+  "Andrew Kolstee (LB)": 2893
+ },
+ "new york district 24": {
+  "John Katko (R) *": 155830,
+  "Dana Balter (D)": 100728,
+  "Steven Williams (WF)": 9835
+ },
+ "new york district 25": {
+  "Joseph Morelle (D) *": 133500,
+  "George Mitris (R)": 113557,
+  "Kevin Wilson (LB)": 3982
+ },
+ "new york district 26": {
+  "Brian Higgins (D) *": 169493,
+  "Ricky Donovan (R)": 82167,
+  "Michael Raleigh (GR)": 3533
+ },
+ "new york district 27": {
+  "Chris Jacobs (R) *": 205658,
+  "Nathan McMurray (D)": 109963,
+  "Duane Whitmer (LB)": 4138
+ },
+ "north carolina district 1": {
+  "G.K. Butterfield (D) *": 187296,
+  "Sandy Smith (R)": 158649
+ },
+ "north carolina district 2": {
+  "Deborah Ross (D)": 308458,
+  "Alan Swain (R)": 170376,
+  "Jeff Matemu (LB)": 10568
+ },
+ "north carolina district 3": {
+  "Greg Murphy (R) *": 227462,
+  "Daryl Farrow (D)": 131011
+ },
+ "north carolina district 4": {
+  "David Price (D) *": 328933,
+  "Robert Thomas (R)": 159509
+ },
+ "north carolina district 5": {
+  "Virginia Foxx (R) *": 255767,
+  "David Brown (D)": 118444,
+  "Jeff Gregory (CS)": 7423
+ },
+ "north carolina district 6": {
+  "Kathy Manning (D)": 251082,
+  "Lee Haywood (R)": 152195
+ },
+ "north carolina district 7": {
+  "David Rouzer (R) *": 270053,
+  "Christopher Ward (D)": 176817
+ },
+ "north carolina district 8": {
+  "Richard Hudson (R) *": 201457,
+  "Patricia Timmons-Goodson (D)": 176221
+ },
+ "north carolina district 9": {
+  "Dan Bishop (R) *": 222250,
+  "Cynthia Wallace (D)": 177890
+ },
+ "north carolina district 10": {
+  "Patrick McHenry (R) *": 281953,
+  "David Parker (D)": 126881
+ },
+ "north carolina district 11": {
+  "Madison Cawthorn (R)": 243898,
+  "Moe Davis (D)": 189516,
+  "Tracey DeBruhl (LB)": 8565,
+  "Tamara Zwinak (GR)": 5417
+ },
+ "north carolina district 12": {
+  "Alma Adams (D) *": null
+ },
+ "north carolina district 13": {
+  "Ted Budd (R) *": 263270,
+  "Scott Huffman (D)": 122415
+ },
+ "north dakota district 1": {
+  "Kelly Armstrong (R) *": 244460,
+  "Zach Raknerud (D)": 97603,
+  "Steven Peterson (LB)": 11980
+ },
+ "ohio district 1": {
+  "Steve Chabot (R) *": 193637,
+  "Kate Schroder (D)": 166061,
+  "Kevin Kahn (LB)": 13042
+ },
+ "ohio district 2": {
+  "Brad Wenstrup (R) *": 225271,
+  "Jaime Castle (D)": 143436
+ },
+ "ohio district 3": {
+  "Joyce Beatty (D) *": 217332,
+  "Mark Richardson (R)": 90474
+ },
+ "ohio district 4": {
+  "Jim Jordan (R) *": 230384,
+  "Shannon Freshour (D)": 99663,
+  "Steve Perkins (LB)": 9436
+ },
+ "ohio district 5": {
+  "Bob Latta (R) *": 251713,
+  "Nick Rubando (D)": 118245
+ },
+ "ohio district 6": {
+  "Bill Johnson (R) *": 243540,
+  "Shawna Roberts (D)": 84237
+ },
+ "ohio district 7": {
+  "Bob Gibbs (R) *": 231246,
+  "Quentin Potter (D)": 100027,
+  "Brandon Lape (LB)": 11205
+ },
+ "ohio district 8": {
+  "Warren Davidson (R) *": 241503,
+  "Vanessa Enoch (D)": 108244
+ },
+ "ohio district 9": {
+  "Marcy Kaptur (D) *": 184367,
+  "Rob Weber (R)": 108085
+ },
+ "ohio district 10": {
+  "Mike Turner (R) *": 208347,
+  "Desiree Tims (D)": 147985
+ },
+ "ohio district 11": {
+  "Marcia Fudge (D) *": 233126,
+  "Laverne Gore (R)": 58139
+ },
+ "ohio district 12": {
+  "Troy Balderson (R) *": 236181,
+  "Alaina Shearer (D)": 178432,
+  "John Stewart (LB)": 12495
+ },
+ "ohio district 13": {
+  "Tim Ryan (D) *": 169487,
+  "Christina Hagan (R)": 145275,
+  "Michael Fricke (LB)": 8206
+ },
+ "ohio district 14": {
+  "David Joyce (R) *": 233828,
+  "Hillary O'Connor Mueri (D)": 155515
+ },
+ "ohio district 15": {
+  "Steve Stivers (R) *": 236473,
+  "Joel Newby (D)": 136286
+ },
+ "ohio district 16": {
+  "Anthony Gonzalez (R) *": 241656,
+  "Aaron Godfrey (D)": 141212
+ },
+ "oklahoma district 1": {
+  "Kevin Hern (R) *": 213251,
+  "Kojo Asamoa-Caesar (D)": 109455,
+  "Evelyn Rogers (I)": 12098
+ },
+ "oklahoma district 2": {
+  "Markwayne Mullin (R) *": 216234,
+  "Danyell Lanier (D)": 63403,
+  "Richie Castaldo (LB)": 8530
+ },
+ "oklahoma district 3": {
+  "Frank Lucas (R) *": 242392,
+  "Zoe Midyett (D)": 66430
+ },
+ "oklahoma district 4": {
+  "Tom Cole (R) *": 212830,
+  "Mary Brannon (D)": 90350,
+  "Bob White (LB)": 10786
+ },
+ "oklahoma district 5": {
+  "Stephanie Bice (R)": 158044,
+  "Kendra Horn (D) *": 145541
+ },
+ "oregon district 1": {
+  "Suzanne Bonamici (D) *": 290175,
+  "Christopher Christensen (R)": 157954
+ },
+ "oregon district 2": {
+  "Cliff Bentz (R)": 269668,
+  "Alex Spenser (D)": 165274,
+  "Robert Werch (LB)": 13595
+ },
+ "oregon district 3": {
+  "Earl Blumenauer (D) *": 336557,
+  "Joanna Harbour (R)": 104796,
+  "Alex DiBlasi (PN)": 8520,
+  "Josh Solomon (LB)": 6466
+ },
+ "oregon district 4": {
+  "Peter DeFazio (D) *": 236973,
+  "Alek Skarlatos (R)": 212544,
+  "Daniel Hoffay (PN)": 9777
+ },
+ "oregon district 5": {
+  "Kurt Schrader (D) *": 223982,
+  "Amy Ryan Courser (R)": 192511,
+  "Matthew Rix (LB)": 11446
+ },
+ "pennsylvania district 1": {
+  "Brian Fitzpatrick (R) *": 243848,
+  "Christina Finello (D)": 186014
+ },
+ "pennsylvania district 2": {
+  "Brendan Boyle (D) *": 187175,
+  "David Torres (R)": 72549
+ },
+ "pennsylvania district 3": {
+  "Dwight Evans (D) *": 321495,
+  "Michael Harvey (R)": 32220
+ },
+ "pennsylvania district 4": {
+  "Madeleine Dean (D) *": 259877,
+  "Kathy Barnette (R)": 177606
+ },
+ "pennsylvania district 5": {
+  "Mary Gay Scanlon (D) *": 247946,
+  "Dasha Pruett (R)": 136772
+ },
+ "pennsylvania district 6": {
+  "Chrissy Houlahan (D) *": 221302,
+  "John Emmons (R)": 174095
+ },
+ "pennsylvania district 7": {
+  "Susan Wild (D) *": 191450,
+  "Lisa Scheller (R)": 178118
+ },
+ "pennsylvania district 8": {
+  "Matt Cartwright (D) *": 174188,
+  "Jim Bognet (R)": 162502
+ },
+ "pennsylvania district 9": {
+  "Dan Meuser (R) *": 228277,
+  "Gary Wegman (D)": 115609
+ },
+ "pennsylvania district 10": {
+  "Scott Perry (R) *": 204960,
+  "Eugene DePasquale (D)": 178968
+ },
+ "pennsylvania district 11": {
+  "Lloyd Smucker (R) *": 238476,
+  "Sarah Hammond (D)": 138728
+ },
+ "pennsylvania district 12": {
+  "Fred Keller (R) *": 238294,
+  "Lee Griffin (D)": 97851
+ },
+ "pennsylvania district 13": {
+  "John Joyce (R) *": 264373,
+  "Todd Rowley (D)": 95103
+ },
+ "pennsylvania district 14": {
+  "Guy Reschenthaler (R) *": 237936,
+  "Bill Marx (D)": 129334
+ },
+ "pennsylvania district 15": {
+  "Glenn Thompson (R) *": 252587,
+  "Robert Williams (D)": 91146
+ },
+ "pennsylvania district 16": {
+  "Mike Kelly (R) *": 206329,
+  "Kristy Gnibus (D)": 141138
+ },
+ "pennsylvania district 17": {
+  "Conor Lamb (D) *": 216094,
+  "Sean Parnell (R)": 207103
+ },
+ "pennsylvania district 18": {
+  "Mike Doyle (D) *": 256488,
+  "Luke Negron (R)": 114543
+ },
+ "rhode island district 1": {
+  "David Cicilline (D) *": 154811,
+  "Frederick Wysocki (I)": 35008,
+  "Jeffrey Lemire (I)": 27986
+ },
+ "rhode island district 2": {
+  "James Langevin (D) *": 150776,
+  "Robert Lancia (R)": 108701
+ },
+ "south carolina district 1": {
+  "Nancy Mace (R)": 215811,
+  "Joe Cunningham (D) *": 210443
+ },
+ "south carolina district 2": {
+  "Joe Wilson (R) *": 202715,
+  "Adair Boroughs (D)": 155118,
+  "Kathleen Wright (CS)": 6163
+ },
+ "south carolina district 3": {
+  "Jeff Duncan (R) *": 237544,
+  "Hosea Cleveland (D)": 95712
+ },
+ "south carolina district 4": {
+  "William Timmons (R) *": 222126,
+  "Kim Nelson (D)": 133023,
+  "Michael Chandler (CS)": 5090
+ },
+ "south carolina district 5": {
+  "Ralph Norman (R) *": 220006,
+  "Moe Brown (D)": 145979
+ },
+ "south carolina district 6": {
+  "Jim Clyburn (D) *": 197469,
+  "John McCollum (R)": 89245,
+  "Mark Hackett (CS)": 2646
+ },
+ "south carolina district 7": {
+  "Tom Rice (R) *": 224984,
+  "Melissa Watson (D)": 138857
+ },
+ "south dakota district 1": {
+  "Dusty Johnson (R) *": 321977,
+  "Randy Luallin (LB)": 75747
+ },
+ "tennessee district 1": {
+  "Diana Harshbarger (R)": 227562,
+  "Blair Walsingham (D)": 68126,
+  "Steve Holder (I)": 8590
+ },
+ "tennessee district 2": {
+  "Tim Burchett (R) *": 238447,
+  "Renee Hoyos (D)": 109298,
+  "Matthew Campbell (I)": 4574
+ },
+ "tennessee district 3": {
+  "Chuck Fleischmann (R) *": 215318,
+  "Meg Gorman (D)": 99510,
+  "Amber Hysell (I)": 5034,
+  "Keith Sweitzer (I)": 1988
+ },
+ "tennessee district 4": {
+  "Scott DesJarlais (R) *": 223941,
+  "Christopher Hale (D)": 111885
+ },
+ "tennessee district 5": {
+  "Jim Cooper (D) *": null
+ },
+ "tennessee district 6": {
+  "John Rose (R) *": 257219,
+  "Christopher Finley (D)": 83694,
+  "Christopher Monday (I)": 8139
+ },
+ "tennessee district 7": {
+  "Mark Green (R) *": 246375,
+  "Kiran Sreepada (D)": 94372,
+  "Ronald Brown (I)": 7543,
+  "Scott Vieira (I)": 1952
+ },
+ "tennessee district 8": {
+  "David Kustoff (R) *": 226949,
+  "Erika Pearson (D)": 97561,
+  "James Hart (I)": 3758,
+  "Jon Dillard (I)": 2983
+ },
+ "tennessee district 9": {
+  "Steve Cohen (D) *": 187258,
+  "Charlotte Bergmann (R)": 48688,
+  "Dennis Clark (I)": 3947,
+  "Bobby Lyons (I)": 2189
+ },
+ "texas district 1": {
+  "Louie Gohmert (R) *": 218385,
+  "Hank Gilbert (D)": 82359
+ },
+ "texas district 2": {
+  "Dan Crenshaw (R) *": 197300,
+  "Sima Ladjevardian (D)": 148727,
+  "Elliott Scheirman (LB)": 5582
+ },
+ "texas district 3": {
+  "Van Taylor (R) *": 228648,
+  "Lulu Seikaly (D)": 177221,
+  "Christopher Claytor (LB)": 8567
+ },
+ "texas district 4": {
+  "Pat Fallon (R)": 255039,
+  "Russell Foster (D)": 77262,
+  "Lou Antonelli (LB)": 6340
+ },
+ "texas district 5": {
+  "Lance Gooden (R) *": 173294,
+  "Carolyn Salter (D)": 100445,
+  "Kevin Hale (LB)": 5816
+ },
+ "texas district 6": {
+  "Ron Wright (R) *": 178877,
+  "Stephen Daniel (D)": 148783,
+  "Melanie Black (LB)": 10910
+ },
+ "texas district 7": {
+  "Lizzie Fletcher (D) *": 159019,
+  "Wesley Hunt (R)": 147802,
+  "Shawn Kelly (LB)": 5514
+ },
+ "texas district 8": {
+  "Kevin Brady (R) *": 276960,
+  "Elizabeth Hernandez (D)": 97182,
+  "Chris Duncan (LB)": 7721
+ },
+ "texas district 9": {
+  "Al Green (D) *": 172060,
+  "Johnny Teague (R)": 49250,
+  "Jose Sosa (LB)": 6575
+ },
+ "texas district 10": {
+  "Michael McCaul (R) *": 215896,
+  "Mike Siegel (D)": 186350,
+  "Roy Eriksen (LB)": 8928
+ },
+ "texas district 11": {
+  "August Pfluger (R)": 231839,
+  "Jon Hogg (D)": 53213,
+  "Wacey Cody (LB)": 5784
+ },
+ "texas district 12": {
+  "Kay Granger (R) *": 232637,
+  "Lisa Welch (D)": 120466,
+  "Trey Holcomb (LB)": 11878
+ },
+ "texas district 13": {
+  "Ronny Jackson (R)": 216523,
+  "Gus Trujillo (D)": 50213,
+  "Jack Westbrook (LB)": 5879
+ },
+ "texas district 14": {
+  "Randy Weber (R) *": 189691,
+  "Adrienne Bell (D)": 117862
+ },
+ "texas district 15": {
+  "Vicente Gonzalez (D) *": 115073,
+  "Monica De La Cruz-Hernandez (R)": 108503,
+  "Ross Leone (LB)": 4256
+ },
+ "texas district 16": {
+  "Veronica Escobar (D) *": 145766,
+  "Irene Armendariz-Jackson (R)": 80762
+ },
+ "texas district 17": {
+  "Pete Sessions (R)": 170974,
+  "Rick Kennedy (D)": 124993,
+  "Ted Brown (LB)": 9871
+ },
+ "texas district 18": {
+  "Sheila Jackson Lee (D) *": 180125,
+  "Wendell Champion (R)": 57617,
+  "Luke Spencer (LB)": 4482,
+  "Vince Duncan (I)": 3378
+ },
+ "texas district 19": {
+  "Jodey Arrington (R) *": 197509,
+  "Tom Watson (D)": 60200,
+  "Joe Burnes (LB)": 6226
+ },
+ "texas district 20": {
+  "Joaquin Castro (D) *": 172648,
+  "Mauro Garza (R)": 88171,
+  "Jeffrey Blunt (LB)": 5900
+ },
+ "texas district 21": {
+  "Chip Roy (R) *": 233766,
+  "Wendy Davis (D)": 203028,
+  "Arthur DiBianca (LB)": 8555,
+  "Tommy Wakely (GR)": 3517
+ },
+ "texas district 22": {
+  "Troy Nehls (R)": 209735,
+  "Sri Kulkarni (D)": 181320,
+  "Joseph LeBlanc (LB)": 15746
+ },
+ "texas district 23": {
+  "Tony Gonzales (R)": 147496,
+  "Gina Ortiz Jones (D)": 135415,
+  "Beto Villela (LB)": 8247
+ },
+ "texas district 24": {
+  "Beth Van Duyne (R)": 167374,
+  "Candace Valenzuela (D)": 162749,
+  "Darren Hamilton (LB)": 5630,
+  "Steve Kuzmich (I)": 4218,
+  "Mark Bauer (I)": 2903
+ },
+ "texas district 25": {
+  "Roger Williams (R) *": 219091,
+  "Julie Oliver (D)": 164449,
+  "Bill Kelsey (LB)": 7681
+ },
+ "texas district 26": {
+  "Michael Burgess (R) *": 261116,
+  "Carol Iannuzzi (D)": 160415,
+  "Mark Boler (LB)": 9204
+ },
+ "texas district 27": {
+  "Michael Cloud (R) *": 171738,
+  "Ricardo De La Fuente (D)": 95021,
+  "Phil Gray (LB)": 5456
+ },
+ "texas district 28": {
+  "Henry Cuellar (D) *": 136512,
+  "Sandra Whitten (R)": 91190,
+  "Bekah Congdon (LB)": 6338
+ },
+ "texas district 29": {
+  "Sylvia Garcia (D) *": 110634,
+  "Jaimy Blanco (R)": 42563,
+  "Phil Kurtz (LB)": 2318
+ },
+ "texas district 30": {
+  "Eddie Johnson (D) *": 204788,
+  "Tre Pennie (R)": 48649,
+  "Eric Williams (I)": 10843
+ },
+ "texas district 31": {
+  "John Carter (R) *": 210768,
+  "Donna Imam (D)": 174394,
+  "Clark Patterson (LB)": 8819
+ },
+ "texas district 32": {
+  "Colin Allred (D) *": 178244,
+  "Genevieve Collins (R)": 157651,
+  "Christy Peterson (LB)": 4941,
+  "Jason Sigmon (I)": 2325
+ },
+ "texas district 33": {
+  "Marc Veasey (D) *": 104863,
+  "Fabian Vasquez (R)": 39472,
+  "Carlos Quintanilla (I)": 8050,
+  "Jason Reeves (LB)": 2576,
+  "Rene Welton (I)": 1990
+ },
+ "texas district 34": {
+  "Filemon Vela (D) *": 110907,
+  "Rey Gonzalez (R)": 83848,
+  "Anthony Cristo (LB)": 3208,
+  "Chris Royal (I)": 2235
+ },
+ "texas district 35": {
+  "Lloyd Doggett (D) *": 174429,
+  "Jenny Sharon (R)": 80016,
+  "Mark Loewe (LB)": 7311,
+  "Jason Mata (I)": 5169
+ },
+ "texas district 36": {
+  "Brian Babin (R) *": 221755,
+  "Rashad Lewis (D)": 72920,
+  "Chad Abbey (LB)": 4825,
+  "Hal Ridley (GR)": 1560
+ },
+ "utah district 1": {
+  "Blake Moore (R)": 220983,
+  "Darren Parry (D)": 98240
+ },
+ "utah district 2": {
+  "Chris Stewart (R) *": 189633,
+  "Kael Weston (D)": 113405,
+  "J. Robert Latham (LB)": 13036
+ },
+ "utah district 3": {
+  "John Curtis (R) *": 215655,
+  "Devin Thorpe (D)": 84130,
+  "Daniel Cummings (CS)": 7405,
+  "Thomas McNeill (O)": 5941
+ },
+ "utah district 4": {
+  "Burgess Owens (R)": 145724,
+  "Ben McAdams (D) *": 145036,
+  "John Molnar (LB)": 9563,
+  "Jonia Broderick (O)": 5882
+ },
+ "vermont district 1": {
+  "Peter Welch (D) *": 238778,
+  "Miriam Berry (R)": 95810,
+  "Peter Becker (I)": 8061,
+  "Marcia Horne (I)": 4332,
+  "Christopher Helali (O)": 3432,
+  "Shawn Orr (I)": 1925,
+  "Jerry Trudell (I)": 1881
+ },
+ "virginia district 1": {
+  "Robert Wittman (R) *": 258990,
+  "Qasim Rashid (D)": 184592
+ },
+ "virginia district 2": {
+  "Elaine Luria (D) *": 182734,
+  "Scott Taylor (R)": 163604,
+  "David Foster (I)": 9001
+ },
+ "virginia district 3": {
+  "Bobby Scott (D) *": 225379,
+  "John Collick (R)": 105091
+ },
+ "virginia district 4": {
+  "Donald McEachin (D) *": 232786,
+  "Leon Benjamin (R)": 148964
+ },
+ "virginia district 5": {
+  "Robert Good (R)": 210244,
+  "Cameron Webb (D)": 189040
+ },
+ "virginia district 6": {
+  "Ben Cline (R) *": 242512,
+  "Nicholas Betts (D)": 129956
+ },
+ "virginia district 7": {
+  "Abigail Spanberger (D) *": 224877,
+  "Nick Freitas (R)": 220094
+ },
+ "virginia district 8": {
+  "Donald Beyer (D) *": 295805,
+  "Jeff Jordan (R)": 93011
+ },
+ "virginia district 9": {
+  "Morgan Griffith (R) *": null
+ },
+ "virginia district 10": {
+  "Jennifer Wexton (D) *": 264434,
+  "Aliscia Andrews (R)": 203585
+ },
+ "virginia district 11": {
+  "Gerry Connolly (D) *": 273199,
+  "Manga Anantatmula (R)": 107952
+ },
+ "washington district 1": {
+  "Suzan DelBene (D) *": 243914,
+  "Jeffrey Beeler (R)": 170401
+ },
+ "washington district 2": {
+  "Rick Larsen (D) *": 247403,
+  "Timothy Hazelo (R)": 141754
+ },
+ "washington district 3": {
+  "Jaime Herrera Beutler (R) *": 231291,
+  "Carolyn Long (D)": 178427
+ },
+ "washington district 4": {
+  "Dan Newhouse (R) *": 177528,
+  "Douglas McKinley (D)": 89815
+ },
+ "washington district 5": {
+  "Cathy McMorris Rodgers (R) *": 233097,
+  "Dave Wilson (D)": 148504
+ },
+ "washington district 6": {
+  "Derek Kilmer (D) *": 241342,
+  "Elizabeth Kreiselmaier (R)": 162854
+ },
+ "washington district 7": {
+  "Pramila Jayapal (D) *": 383347,
+  "Craig Keller (R)": 77127
+ },
+ "washington district 8": {
+  "Kim Schrier (D) *": 210200,
+  "Jesse Jensen (R)": 195041
+ },
+ "washington district 9": {
+  "Adam Smith (D) *": 256207,
+  "Doug Basler (R)": 88387
+ },
+ "washington district 10": {
+  "Marilyn Strickland (D)": 161848,
+  "Beth Doglio (D)": 116352
+ },
+ "west virginia district 1": {
+  "David McKinley (R) *": 178925,
+  "Natalie Cline (D)": 80195
+ },
+ "west virginia district 2": {
+  "Alex Mooney (R) *": 169506,
+  "Cathy Kunkel (D)": 98990
+ },
+ "west virginia district 3": {
+  "Carol Miller (R) *": 160292,
+  "Hilary Turner (D)": 64170
+ },
+ "wisconsin district 1": {
+  "Bryan Steil (R) *": 238257,
+  "Roger Polack (D)": 163154
+ },
+ "wisconsin district 2": {
+  "Mark Pocan (D) *": 318487,
+  "Peter Theron (R)": 138293
+ },
+ "wisconsin district 3": {
+  "Ron Kind (D) *": 199798,
+  "Derrick Van Orden (R)": 188825
+ },
+ "wisconsin district 4": {
+  "Gwen Moore (D) *": 232654,
+  "Tim Rogers (R)": 70768,
+  "Robert Raymond (I)": 7911
+ },
+ "wisconsin district 5": {
+  "Scott Fitzgerald (R)": 265417,
+  "Tom Palzewicz (D)": 175872
+ },
+ "wisconsin district 6": {
+  "Glenn Grothman (R) *": 238858,
+  "Jessica King (D)": 164216
+ },
+ "wisconsin district 7": {
+  "Tom Tiffany (R) *": 252004,
+  "Tricia Zunker (D)": 162729
+ },
+ "wisconsin district 8": {
+  "Mike Gallagher (R) *": 267862,
+  "Amanda Stuck (D)": 150824
+ },
+ "wyoming district 1": {
+  "Liz Cheney (R) *": 185602,
+  "Lynnette Grey Bull (D)": 66539,
+  "Richard Brubaker (LB)": 10113,
+  "Jeff Haggit (CS)": 7930
+ }
+}
