@@ -1,3 +1,6 @@
+##############
+#Jacob Pollard
+##############
 #Processing file with utility functions better
 #left out of the notebook to reduce clutter
 import numpy as np
@@ -162,6 +165,7 @@ def calculatePrePostDifferences(dfPost,dfPre):
     for p in dfPre['Pollster'].unique():
         print('.',end='',flush=True)
         for state in dfPre['State'].unique():
+            #if the state is not in the df, skip this
             if (not (state in dfPre[dfPre['Pollster']==p]['State'].unique())) or (not (state in dfPost['State'].unique())):
                 continue
             for can in dfPre['Candidate'].unique(): 
@@ -189,7 +193,7 @@ def getPrePostDifferences(prePollsters=None):
         if None, then all available are used
         alternatively, the user can remove items from pre/post polls if they
         wish for them not to be included
-
+    out: differences in a df
     '''
     if not path.exists(base+'differences.csv'):
         print("Processing..",flush=True)
@@ -201,7 +205,43 @@ def getPrePostDifferences(prePollsters=None):
 
     if not prePollsters is None:
         assert all((p in df['Pollster'].unique()) for p in prePollsters)
-        df = df[df['Pollsters'].isin(prePollsters)]
+        df = df[df['Pollster'].isin(prePollsters)]
    
     return df
 
+#only average marist, monmouth, siena
+def avgPolls(df,pollsters=None):
+    '''
+    average the numeric columns in dfPre, using only those where
+    df['Pollster'] is in the list of pollsters passed (if any)
+    in: df - the dataframe to be averaged
+        pollsters - if None, use all in df,
+        if is a list, then use only the pollsters passed in the list
+    out: averages in a df
+    '''
+
+    if not pollsters is None:
+        assert all((p in df['Pollster'].unique()) for p in pollsters)
+        df = df[df['Pollster'].isin(pollsters)]
+
+    results =[]
+    for p in df['Pollster'].unique():
+        for can in df['Candidate'].unique():
+            cur = df[(df['Pollster']==p) & (df['Candidate']==can)].mean(axis=0)
+            cur['Candidate'] = can
+            cur['Pollster'] = p
+            cur['State'] = '(avg)'
+            results.append(cur)
+
+    #last one is average of all
+    for can in df['Candidate'].unique():
+        cur = df[(df['Candidate']==can)].mean(axis=0)
+        cur['Candidate'] = can
+        cur['Pollster'] = 'many'
+        cur['State'] = '(avg)'
+        results.append(cur)
+
+            
+    dfRet = pd.DataFrame(results,columns=df.columns)
+
+    return dfRet 
