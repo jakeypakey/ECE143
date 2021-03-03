@@ -211,7 +211,7 @@ def getPrePostDifferences(prePollsters=None):
     return df
 
 #only average marist, monmouth, siena
-def avgPolls(df,pollsters=None):
+def avgPolls(df,pollsters=None,aggregateBy='State'):
     '''
     average the numeric columns in dfPre, using only those where
     df['Pollster'] is in the list of pollsters passed (if any)
@@ -226,21 +226,34 @@ def avgPolls(df,pollsters=None):
         df = df[df['Pollster'].isin(pollsters)]
 
     results =[]
-    for p in df['Pollster'].unique():
+
+    if aggregateBy == 'Pollster':
+        for p in df['Pollster'].unique():
+            for can in df['Candidate'].unique():
+                cur = df[(df['Pollster']==p) & (df['Candidate']==can)].mean(axis=0)
+                cur['Candidate'] = can
+                cur['Pollster'] = p
+                cur['State'] = '(avg)'
+                results.append(cur)
+
+    #last one is average of all
         for can in df['Candidate'].unique():
-            cur = df[(df['Pollster']==p) & (df['Candidate']==can)].mean(axis=0)
+            cur = df[(df['Candidate']==can)].mean(axis=0)
             cur['Candidate'] = can
-            cur['Pollster'] = p
+            cur['Pollster'] = 'many'
             cur['State'] = '(avg)'
             results.append(cur)
 
-    #last one is average of all
-    for can in df['Candidate'].unique():
-        cur = df[(df['Candidate']==can)].mean(axis=0)
-        cur['Candidate'] = can
-        cur['Pollster'] = 'many'
-        cur['State'] = '(avg)'
-        results.append(cur)
+    elif aggregateBy == 'State':
+        for s in df['State'].unique():
+            for can in df['Candidate'].unique():
+                cur = df[(df['State']==s) & (df['Candidate']==can)].mean(axis=0)
+                cur['Candidate'] = can
+                cur['Pollster'] = 'many'
+                cur['State'] = s
+                results.append(cur)
+
+
 
             
     dfRet = pd.DataFrame(results,columns=df.columns)
