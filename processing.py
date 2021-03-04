@@ -16,10 +16,10 @@ base = 'data/'
 
 
 
-def statesTotals(showThirdParty=False):
+def statesTotals(showThirdParty=False,shortForm=False):
     '''
     calculate the state totals of final election results
-    in: None
+    in: showThirdParty, short
     out: None
     '''
     df = pd.read_csv(base+'kaggle_data/president_county_candidate.csv')
@@ -47,23 +47,47 @@ def statesTotals(showThirdParty=False):
    
     #unpack and convert dictionary
     ret = dict()
-    ret = {k:[] for k in ['state','candidate','party','total_votes']}
-    for state in states.keys():
-        thirdCount = 0
-        for key in states[state].keys():
-            if not showThirdParty and not(key[1]=="REP" or key[1]=="DEM"):
-                thirdCount+=states[state][key]
-            else:
+    if not shortForm:
+        ret = {k:[] for k in ['state','candidate','party','total_votes']}
+        for state in states.keys():
+            thirdCount = 0
+            for key in states[state].keys():
+                if not showThirdParty and not(key[1]=="REP" or key[1]=="DEM"):
+                    thirdCount+=states[state][key]
+                else:
+                    ret['state'].append(state)
+                    ret['candidate'].append(key[0])
+                    ret['party'].append(key[1])
+                    ret['total_votes'].append(states[state][key])
+            #at the of each state, fill in third party if needed
+            if not showThirdParty:
                 ret['state'].append(state)
-                ret['candidate'].append(key[0])
-                ret['party'].append(key[1])
-                ret['total_votes'].append(states[state][key])
-        #at the of each state, fill in third party if needed
-        if not showThirdParty:
+                ret['candidate'].append("Other")
+                ret['party'].append("N/A")
+                ret['total_votes'].append(thirdCount)
+    #short will always aggregate third party
+    else:
+        ret = {k:[] for k in ['state','DEM','REP','winner','difference','third party']}
+        for state in states.keys():
+            thirdCount = 0
+            for key in states[state].keys():
+                if not(key[1]=="REP" or key[1]=="DEM"):
+                    thirdCount+=states[state][key]
+                else:
+                    if key[0] == 'Joe Biden':
+                        ret['DEM'].append(states[state][key])
+                    elif key[0] == 'Donald Trump':
+                        ret['REP'].append(states[state][key])
+            #now fill in the rest
             ret['state'].append(state)
-            ret['candidate'].append("Other")
-            ret['party'].append("N/A")
-            ret['total_votes'].append(thirdCount)
+            if ret['DEM'][-1] > ret['REP'][-1]:
+                ret['winner'].append('DEM')
+                ret['difference'].append(ret['DEM'][-1] - ret['REP'][-1])
+            else:
+                ret['winner'].append('REP')
+                ret['difference'].append(ret['REP'][-1] - ret['DEM'][-1])
+            ret['third party'].append(thirdCount)
+
 
     return pd.DataFrame(ret)
 
