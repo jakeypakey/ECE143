@@ -27,20 +27,22 @@ Emerson (A- rating) is the only mixed (online,phone, and text) pollster and Surv
 
 
 # How to Execute the Code
-In order to run the project, open the 2020ElectionAnalysis.ipynb and 2020ElectionAnalysis_Visuals_Bar_Radar_Charts.ipynb
-Jupyter Notebooks and run all the cells within those notebooks.
+In order to run the project, open the 2020ElectionAnalysis.ipynb, 2020ElectionAnalysis_Visuals_Bar_Radar_Charts.ipynb,
+2020ElectionAnalysis_Visuals_Maps.ipynb Jupyter Notebooks and run all the cells within those notebooks.
 
 # Files Contained
 - The processing.py file contains utility functions that are imported to the notebook to keep it presentable.
 Please keep in mind the functionality is dependent on the directory layout.
 - 2020 Election Analysis Notebook: demonstrates the processing functions within processing.py in action
 - visuals_bar_radar_chart.py: This holds the functions used for processing the dataframes in a way such that it is feasible to plot bar and radar charts
+- visuals_maps.py: This holds functions used to process dataframes and plot chloropleth maps.
 - 2020 Election Analysis Visuals (Bar and Radar Charts) Notebook
+- 2020 Election Analysis Visuals (Maps) Notebook
 - data folder: holds all the datasets utilized for this project
 - PDF of Presentation
 - PDF of Project Proposal
 
 # Libraries Used
 The user should import all the libraries listed below to run the notebooks
-Libraries: functools, json, matplotlib.pyplot, numpy, os, and pandas
+Libraries: functools, json, matplotlib.pyplot, numpy, os, pandas, and plotly
 
