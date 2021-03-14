@@ -19,8 +19,9 @@ base = 'data/'
 def statesTotals(showThirdParty=False,shortForm=False):
     '''
     calculate the state totals of final election results
-    in: showThirdParty, short
-    out: None
+    in: showThirdParty - if true, all third party candidates are shown
+        shortForm - if true, an abbreviated dataframe is returned
+    out: dataframe of totals by state
     '''
     df = pd.read_csv(base+'kaggle_data/president_county_candidate.csv')
 
@@ -95,7 +96,7 @@ def readPreElectionPolls():
     '''
     reads the pre election polling data, joining into single table
     in: None
-    out:None
+    out: dataframe
     '''
     #file names
     pollsters = ['Emerson','Marist','Monmouth','Siena','SurveyMonkey']
@@ -118,8 +119,8 @@ def readPreElectionPolls():
 def readPostElectionPolls():
     '''
     reads the post election polling data
-    in: None
-    out:None
+    in: none
+    out: dataframe
     '''
     #file names
     pollsters = ['Edison']
@@ -142,6 +143,7 @@ def readPostElectionPolls():
 def stateDict(useShortKey=True):
     '''
     generate state dictionaries for conversion from code to long string
+    this utility is used elsewhere
     in: useShortKey, bool - if true, state code is key and name is value,
         otherwise it is flipped
     out: dictionary of state:code paris
@@ -159,8 +161,8 @@ def calculatePrePostDifferences(dfPost,dfPre):
     generate catagorical differences from polling data each numeric column
     will be POSTELECTIONValue - PREELECTIONValue
     so, a positive value means the value increased for the respective candidate
-    in: postPolls - df of post election polls (from readPostPolls)
-        prePolls - df of post election polls (from readPrePolls)
+    in: dfPost - df of post election polls (from readPostPolls)
+        dfPre - df of post election polls (from readPrePolls)
     out: df containing info
     '''
     ##As is this function is built to only take in a single of post pollster
@@ -307,3 +309,4 @@ def extractHouseData():
                     new_dict[k]['House-R'] = v[key] / total
                     new_dict[k]['R Candidate'] = key[:key.find('(')-1]
     return pd.DataFrame.from_dict(new_dict, orient='index')
+
